@@ -1,0 +1,18 @@
+.container{
+    margin: 10px;
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+.child{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+input{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}

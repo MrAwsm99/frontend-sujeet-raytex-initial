@@ -1,0 +1,40 @@
+.header{
+    margin: 0;
+    padding: 2.5%;
+    background-color: #6E3D7C;
+}
+
+.image{
+    margin: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    font-family: cursive;
+    display: inline;
+    color: white;
+    font-size: 15px;
+    margin: 0 10px;
+    padding: 8px 0 12px 0;
+}
+
+.text{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.footer{
+    padding: 2.5%;
+    background-color: #6E3D7C;
+}

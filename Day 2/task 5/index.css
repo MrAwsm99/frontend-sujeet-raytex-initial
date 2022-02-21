@@ -1,0 +1,102 @@
+.header{
+    margin: 0;
+    padding: 2.5%;
+    background-color: #6E3D7C;
+}
+
+.image{
+    margin: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.update{
+    text-emphasis-color: black;
+    padding: 20px;
+    margin: 20px;
+    color: gainsboro;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+.text{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+
+
+.cards{
+    display: flex;
+    padding:45px;
+}
+.cards div{
+    padding:5px 20px 5px 20px;
+    width: 25%;
+    margin: 5px;
+    background-color: white;
+}
+.cards h4,h5{
+    padding: 0px;
+}
+.cards h5{
+    color: #8A8B8D;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding:5px 0 5px 0;
+}
+.cards h4{
+    font-size: 25px;
+}
+.cards div img{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+}
+.cards p{
+    padding:5px 5px 5px 5px;
+    width: 240px;
+    background-color: #FFFFFF;
+}
+.cards button{
+    background-color: rgb(138,180,75);
+    color:white;
+    border: 1px solid rgb(138,180,75);
+    padding:10px 70px 10px 70px;
+    margin: 10px 0px 0px 20px;
+}
+.cards p{
+    border-bottom: 1px solid #8A8B8D;
+
+}
+.cards button:hover{
+    background-color: skyblue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    font-family: cursive;
+    display: inline;
+    color: white; 
+    font-size: 15px;
+    margin: 0 10px;
+    padding: 8px 0 12px 0;
+}
+
+.footer{
+    padding: auto;
+    background-color: #6E3D7C;
+}
